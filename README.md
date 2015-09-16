@@ -18,11 +18,11 @@ echo_sercer.pyを起動
 
 spark-streaming-sample直下に移動
 
-echo_serverに接続すると、echo_serverがクライアントへ１秒毎に英文を流す
-
-sparkは送られてきた英文の中からbutを含む英文を5秒毎に出力する
-
-
 `$sbt`
 
 `$run`
+
+
+
+echo_serverに接続すると、echo_serverがクライアントへ１秒毎に英文を流す
+sparkは送られてきた英文の中からbutを含む英文を5秒毎に出力する
